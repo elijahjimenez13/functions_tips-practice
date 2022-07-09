@@ -1,0 +1,19 @@
+1) Decomposition:
+Decomposing a program into functions can greatly aid program readability, helping yield an 
+initially correct program, and easing future maintenance.
+
+2) Modular Development:
+Modular development is the process of dividing a program into  separate modules that can be 
+developed and tested separately and then integrated into a single program.
+
+3) Incremental Development:
+Incremental development is a process in which a programmer writes and tests a few
+statements, then writes and tests a small amount more (an incremental amount), and so
+on.
+
+4) Function Stub:
+A function stub is a function definition whose statements have not yet been written.
+
+5) Redundant:
+Redundant are things that are repeated consistently, for example, functions can help avoiding
+redundant statements.
